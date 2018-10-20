@@ -1,0 +1,19 @@
+﻿生成启动时间为 2017/4/2 10:27:22。
+     1>项目“E:\FindGear\FindGear\FindGear\FindGear.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\FindGear.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt drawline.cpp
+         drawline.cpp
+     1>e:\findgear\findgear\findgear\drawline.cpp(151): warning C4018: “<”: 有符号/无符号不匹配
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\FindGear.exe.embed.manifest.res" Debug\FindGear_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\FindGear\FindGear\Debug\FindGear.exe" /INCREMENTAL /NOLOGO opencv_ts300d.lib opencv_world300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\FindGear.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\FindGear\FindGear\Debug\FindGear.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\FindGear\FindGear\Debug\FindGear.lib" /MACHINE:X86 Debug\FindGear.exe.embed.manifest.res
+         Debug\drawline.obj
+     1>opencv_world300d.lib(opencv_world300d.dll) : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“X86”冲突
+     1>已完成生成项目“E:\FindGear\FindGear\FindGear\FindGear.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.65
