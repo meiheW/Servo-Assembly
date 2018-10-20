@@ -1,0 +1,24 @@
+
+ 
+记录时间：2017-05-14 14:48:33,388 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：ChipDetection.FormChipDetection property: [(null)] - 
+错误描述：测试Log4Net日志是否写入
+ 
+
+ 
+记录时间：2017-05-14 14:54:35,181 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：ChipDetection.FormChipDetection property: [(null)] - 
+错误描述：测试Log4Net日志是否写入
+ 
+
+ 
+记录时间：2017-05-14 14:55:26,015 
+线程ID:[10] 
+日志级别：  ERROR 
+出错类：ChipDetection.FormChipDetection property: [(null)] - 
+错误描述：测试Log4Net日志是否写入
+ 
