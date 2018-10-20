@@ -1,0 +1,514 @@
+D:\ChipDetection\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.exe.config
+D:\ChipDetection\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.exe
+D:\ChipDetection\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.pdb
+D:\ChipDetection\ChipDetection\ChipDetection\bin\x64\Debug\zh-CHS\ChipDetection.resources.dll
+D:\ChipDetection\ChipDetection\ChipDetection\bin\x64\Debug\zh-TW\ChipDetection.resources.dll
+D:\ChipDetection\ChipDetection\ChipDetection\bin\x64\Debug\FlyCapture2Managed_v90.dll
+D:\ChipDetection\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+D:\ChipDetection\ChipDetection\ChipDetection\bin\x64\Debug\office.dll
+D:\ChipDetection\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Vbe.Interop.dll
+D:\ChipDetection\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.xml
+D:\ChipDetection\ChipDetection\ChipDetection\bin\x64\Debug\office.xml
+D:\ChipDetection\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.resources
+D:\ChipDetection\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormCode.resources
+D:\ChipDetection\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormFunctionTest.resources
+D:\ChipDetection\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormChipDetection.resources
+D:\ChipDetection\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormNewTemplate.resources
+D:\ChipDetection\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.resources
+D:\ChipDetection\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.resources
+D:\ChipDetection\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.Properties.Resources.resources
+D:\ChipDetection\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.zh-CHS.resources
+D:\ChipDetection\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.zh-CHS.resources
+D:\ChipDetection\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-CHS.resources
+D:\ChipDetection\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-TW.resources
+D:\ChipDetection\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.csproj.GenerateResource.Cache
+D:\ChipDetection\ChipDetection\ChipDetection\obj\x64\Debug\zh-CHS\ChipDetection.resources.dll
+D:\ChipDetection\ChipDetection\ChipDetection\obj\x64\Debug\zh-TW\ChipDetection.resources.dll
+D:\ChipDetection\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.exe
+D:\ChipDetection\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.pdb
+D:\ChipDetection\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.csprojResolveAssemblyReference.cache
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.exe.config
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.exe
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.pdb
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.exe
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.pdb
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\bin\x64\Debug\zh-CHS\ChipDetection.resources.dll
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\bin\x64\Debug\zh-TW\ChipDetection.resources.dll
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\bin\x64\Debug\office.dll
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Vbe.Interop.dll
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.xml
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\bin\x64\Debug\office.xml
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.csprojResolveAssemblyReference.cache
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.resources
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormCode.resources
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormFunctionTest.resources
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormChipDetection.resources
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormNewTemplate.resources
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.resources
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.resources
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.Properties.Resources.resources
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.zh-CHS.resources
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.zh-CHS.resources
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-CHS.resources
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-TW.resources
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.csproj.GenerateResource.Cache
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\obj\x64\Debug\zh-CHS\ChipDetection.resources.dll
+I:\ChipDetection_v1.1\ChipDetection\ChipDetection\obj\x64\Debug\zh-TW\ChipDetection.resources.dll
+E:\ChipDetectionVersion\ChipDetection_v1.2\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.exe.config
+E:\ChipDetectionVersion\ChipDetection_v1.2\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.exe
+E:\ChipDetectionVersion\ChipDetection_v1.2\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.pdb
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.exe.config
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.exe
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.pdb
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.exe
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.pdb
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\bin\x64\Debug\zh-CHS\ChipDetection.resources.dll
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\bin\x64\Debug\zh-TW\ChipDetection.resources.dll
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\bin\x64\Debug\office.dll
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Vbe.Interop.dll
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.xml
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\bin\x64\Debug\office.xml
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.csprojResolveAssemblyReference.cache
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.resources
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormCode.resources
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormFunctionTest.resources
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormChipDetection.resources
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormNewTemplate.resources
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.resources
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.resources
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.Properties.Resources.resources
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.zh-CHS.resources
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.zh-CHS.resources
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-CHS.resources
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-TW.resources
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.csproj.GenerateResource.Cache
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\obj\x64\Debug\zh-CHS\ChipDetection.resources.dll
+E:\ChipDetectionVersion\ChipDetection_v1.3\ChipDetection\ChipDetection\obj\x64\Debug\zh-TW\ChipDetection.resources.dll
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.exe.config
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.exe
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.pdb
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.exe
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.pdb
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\bin\x64\Debug\zh-CHS\ChipDetection.resources.dll
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\bin\x64\Debug\zh-TW\ChipDetection.resources.dll
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\bin\x64\Debug\FlyCapture2Managed_v90.dll
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\bin\x64\Debug\office.dll
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Vbe.Interop.dll
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.xml
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\bin\x64\Debug\office.xml
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.csprojResolveAssemblyReference.cache
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.resources
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormCode.resources
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormFunctionTest.resources
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormChipDetection.resources
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormNewTemplate.resources
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.resources
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.resources
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.Properties.Resources.resources
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.zh-CHS.resources
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.zh-CHS.resources
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-CHS.resources
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-TW.resources
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.csproj.GenerateResource.Cache
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\obj\x64\Debug\zh-CHS\ChipDetection.resources.dll
+D:\ChipDetection\ChipDetection_v1.4\ChipDetection\ChipDetection\obj\x64\Debug\zh-TW\ChipDetection.resources.dll
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.exe.config
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.exe
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.pdb
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.exe
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.pdb
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\zh-CHS\ChipDetection.resources.dll
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\zh-TW\ChipDetection.resources.dll
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\office.dll
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Vbe.Interop.dll
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.xml
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\office.xml
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.csprojResolveAssemblyReference.cache
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.resources
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormCode.resources
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormFunctionTest.resources
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormChipDetection.resources
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormNewTemplate.resources
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.resources
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.resources
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.Properties.Resources.resources
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.zh-CHS.resources
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.zh-CHS.resources
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-CHS.resources
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-TW.resources
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.csproj.GenerateResource.Cache
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\zh-CHS\ChipDetection.resources.dll
+E:\ChipDetectionVersion\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\zh-TW\ChipDetection.resources.dll
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.exe.config
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.exe
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.pdb
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.exe
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.pdb
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\zh-CHS\ChipDetection.resources.dll
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\zh-TW\ChipDetection.resources.dll
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\FlyCapture2Managed_v90.dll
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\office.dll
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Vbe.Interop.dll
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.xml
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\office.xml
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.resources
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormCode.resources
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormFunctionTest.resources
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormChipDetection.resources
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormNewTemplate.resources
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.resources
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.resources
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.Properties.Resources.resources
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.zh-CHS.resources
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.zh-CHS.resources
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-CHS.resources
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-TW.resources
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.csproj.GenerateResource.Cache
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\zh-CHS\ChipDetection.resources.dll
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\zh-TW\ChipDetection.resources.dll
+D:\ChipDetection\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.csprojResolveAssemblyReference.cache
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.exe.config
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.exe
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.pdb
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.exe
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.pdb
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\zh-CHS\ChipDetection.resources.dll
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\zh-TW\ChipDetection.resources.dll
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\office.dll
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Vbe.Interop.dll
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.xml
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\bin\x64\Debug\office.xml
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.csprojResolveAssemblyReference.cache
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.resources
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormCode.resources
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormFunctionTest.resources
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormChipDetection.resources
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormNewTemplate.resources
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.resources
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.resources
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.Properties.Resources.resources
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.zh-CHS.resources
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.zh-CHS.resources
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-CHS.resources
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-TW.resources
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.csproj.GenerateResource.Cache
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\zh-CHS\ChipDetection.resources.dll
+I:\ChipDetection_v2.1\ChipDetection\ChipDetection\obj\x64\Debug\zh-TW\ChipDetection.resources.dll
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.exe.config
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.exe
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.pdb
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.exe
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.pdb
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Debug\zh-CHS\ChipDetection.resources.dll
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Debug\zh-TW\ChipDetection.resources.dll
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Debug\FlyCapture2Managed_v90.dll
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Debug\office.dll
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Vbe.Interop.dll
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.xml
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Debug\office.xml
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.csprojResolveAssemblyReference.cache
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormCode.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormFunctionTest.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormChipDetection.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormNewTemplate.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.Properties.Resources.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.zh-CHS.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.zh-CHS.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-CHS.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-TW.resources
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.csproj.GenerateResource.Cache
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\zh-CHS\ChipDetection.resources.dll
+D:\ChipDetection\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\zh-TW\ChipDetection.resources.dll
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.exe.config
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.exe
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.pdb
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.exe
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Debug\ChipDetection.pdb
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Debug\zh-CHS\ChipDetection.resources.dll
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Debug\zh-TW\ChipDetection.resources.dll
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Debug\FlyCapture2Managed_v90.dll
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Debug\office.dll
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Vbe.Interop.dll
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.xml
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Debug\office.xml
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.csprojResolveAssemblyReference.cache
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormCode.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormFunctionTest.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormChipDetection.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormNewTemplate.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.Properties.Resources.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.zh-CHS.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.zh-CHS.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-CHS.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-TW.resources
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\ChipDetection.csproj.GenerateResource.Cache
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\zh-CHS\ChipDetection.resources.dll
+D:\ChipDetection_v3.1\ChipDetection\ChipDetection\obj\x64\Debug\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\bin\x64\Debug\ChipDetection.exe.config
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Debug\ChipDetection.exe
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Debug\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\bin\x64\Debug\ChipDetection.exe
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\bin\x64\Debug\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\bin\x64\Debug\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\bin\x64\Debug\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\bin\x64\Debug\office.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\bin\x64\Debug\Microsoft.Vbe.Interop.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.xml
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\bin\x64\Debug\office.xml
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Debug\ChipDetection.csprojResolveAssemblyReference.cache
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Debug\ChipDetection.FormCode.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Debug\ChipDetection.FormFunctionTest.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Debug\ChipDetection.FormChipDetection.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Debug\ChipDetection.FormNewTemplate.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Debug\ChipDetection.Properties.Resources.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-CHS.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-TW.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Debug\ChipDetection.csproj.GenerateResource.Cache
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Debug\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.1\ChipDetection\obj\x64\Debug\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\bin\x64\Debug\ChipDetection.exe.config
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Debug\ChipDetection.exe
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Debug\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\bin\x64\Debug\ChipDetection.exe
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\bin\x64\Debug\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\bin\x64\Debug\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\bin\x64\Debug\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\bin\x64\Debug\office.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\bin\x64\Debug\Microsoft.Vbe.Interop.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.xml
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\bin\x64\Debug\office.xml
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Debug\ChipDetection.csprojResolveAssemblyReference.cache
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Debug\ChipDetection.FormCode.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Debug\ChipDetection.FormFunctionTest.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Debug\ChipDetection.FormChipDetection.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Debug\ChipDetection.FormNewTemplate.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Debug\ChipDetection.Properties.Resources.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-CHS.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-TW.resources
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Debug\ChipDetection.csproj.GenerateResource.Cache
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Debug\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\ChipDetection_t6.2\ChipDetection\obj\x64\Debug\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\bin\x64\Debug\ChipDetection.exe.config
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Debug\ChipDetection.exe
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Debug\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\bin\x64\Debug\ChipDetection.exe
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\bin\x64\Debug\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\bin\x64\Debug\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\bin\x64\Debug\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\bin\x64\Debug\office.dll
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\bin\x64\Debug\Microsoft.Vbe.Interop.dll
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.xml
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\bin\x64\Debug\office.xml
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Debug\ChipDetection.csprojResolveAssemblyReference.cache
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Debug\ChipDetection.FormCode.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Debug\ChipDetection.FormFunctionTest.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Debug\ChipDetection.FormChipDetection.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Debug\ChipDetection.FormNewTemplate.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Debug\ChipDetection.Properties.Resources.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-TW.resources
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Debug\ChipDetection.csproj.GenerateResource.Cache
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Debug\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection\Detec2\ChipDetection\obj\x64\Debug\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\bin\x64\Debug\ChipDetection.exe.config
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Debug\ChipDetection.exe
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Debug\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\bin\x64\Debug\ChipDetection.exe
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\bin\x64\Debug\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\bin\x64\Debug\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\bin\x64\Debug\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\bin\x64\Debug\office.dll
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\bin\x64\Debug\Microsoft.Vbe.Interop.dll
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.xml
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\bin\x64\Debug\office.xml
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Debug\ChipDetection.csprojResolveAssemblyReference.cache
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Debug\ChipDetection.FormCode.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Debug\ChipDetection.FormFunctionTest.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Debug\ChipDetection.FormChipDetection.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Debug\ChipDetection.FormNewTemplate.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Debug\ChipDetection.Properties.Resources.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-TW.resources
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Debug\ChipDetection.csproj.GenerateResource.Cache
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Debug\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection\Detec1\ChipDetection\obj\x64\Debug\zh-TW\ChipDetection.resources.dll
+C:\Users\63229\Desktop\RW1-10\ChipDetection\bin\x64\Debug\ChipDetection.exe.config
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.exe
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.pdb
+C:\Users\63229\Desktop\RW1-10\ChipDetection\bin\x64\Debug\ChipDetection.exe
+C:\Users\63229\Desktop\RW1-10\ChipDetection\bin\x64\Debug\ChipDetection.pdb
+C:\Users\63229\Desktop\RW1-10\ChipDetection\bin\x64\Debug\zh-CHS\ChipDetection.resources.dll
+C:\Users\63229\Desktop\RW1-10\ChipDetection\bin\x64\Debug\zh-TW\ChipDetection.resources.dll
+C:\Users\63229\Desktop\RW1-10\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\63229\Desktop\RW1-10\ChipDetection\bin\x64\Debug\office.dll
+C:\Users\63229\Desktop\RW1-10\ChipDetection\bin\x64\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\63229\Desktop\RW1-10\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\63229\Desktop\RW1-10\ChipDetection\bin\x64\Debug\office.xml
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.csprojResolveAssemblyReference.cache
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.FormCode.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.FormFunctionTest.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.FormChipDetection.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.FormNewTemplate.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.Properties.Resources.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.zh-CHS.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.zh-CHS.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-CHS.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-TW.resources
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.csproj.GenerateResource.Cache
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Debug\zh-CHS\ChipDetection.resources.dll
+C:\Users\63229\Desktop\RW1-10\ChipDetection\obj\x64\Debug\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\bin\x64\Debug\ChipDetection.exe.config
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.exe
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\bin\x64\Debug\ChipDetection.exe
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\bin\x64\Debug\ChipDetection.pdb
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\bin\x64\Debug\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\bin\x64\Debug\zh-TW\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\bin\x64\Debug\office.dll
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\bin\x64\Debug\Microsoft.Vbe.Interop.dll
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.xml
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\bin\x64\Debug\office.xml
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.csprojResolveAssemblyReference.cache
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.FormCode.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.FormFunctionTest.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.FormChipDetection.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.FormNewTemplate.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.Properties.Resources.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-CHS.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-TW.resources
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Debug\ChipDetection.csproj.GenerateResource.Cache
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Debug\zh-CHS\ChipDetection.resources.dll
+E:\HuiCheng\C# xinpian\Detection1-10\RW1-10\ChipDetection\obj\x64\Debug\zh-TW\ChipDetection.resources.dll
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\bin\x64\Debug\ChipDetection.exe.config
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.exe
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.pdb
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.resources
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormCode.resources
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormChipDetection.resources
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormNewTemplate.resources
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.resources
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.resources
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.Properties.Resources.resources
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.zh-CHS.resources
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.zh-CHS.resources
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-CHS.resources
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-TW.resources
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\bin\x64\Debug\ChipDetection.exe
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\bin\x64\Debug\ChipDetection.pdb
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\bin\x64\Debug\zh-CHS\ChipDetection.resources.dll
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\bin\x64\Debug\zh-TW\ChipDetection.resources.dll
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\bin\x64\Debug\FlyCapture2Managed_v90.dll
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\bin\x64\Debug\office.dll
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\bin\x64\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\bin\x64\Debug\office.xml
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\obj\x64\Debug\zh-CHS\ChipDetection.resources.dll
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\obj\x64\Debug\zh-TW\ChipDetection.resources.dll
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\修改\Detection1-13\ChipDetection\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\bin\x64\Debug\ChipDetection.exe.config
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.exe
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.pdb
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\bin\x64\Debug\ChipDetection.exe
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\bin\x64\Debug\ChipDetection.pdb
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\bin\x64\Debug\zh-CHS\ChipDetection.resources.dll
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\bin\x64\Debug\zh-TW\ChipDetection.resources.dll
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\bin\x64\Debug\FlyCapture2Managed_v90.dll
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\bin\x64\Debug\office.dll
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\bin\x64\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\bin\x64\Debug\office.xml
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.resources
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormCode.resources
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormChipDetection.resources
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormNewTemplate.resources
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.resources
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.resources
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.Properties.Resources.resources
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.zh-CHS.resources
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.zh-CHS.resources
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-CHS.resources
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-TW.resources
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\zh-CHS\ChipDetection.resources.dll
+C:\Users\Administrator\Desktop\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\zh-TW\ChipDetection.resources.dll
+E:\程序\pre_v1\Detection1-13\ChipDetection\bin\x64\Debug\ChipDetection.exe.config
+E:\程序\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.exe
+E:\程序\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.pdb
+E:\程序\pre_v1\Detection1-13\ChipDetection\bin\x64\Debug\ChipDetection.exe
+E:\程序\pre_v1\Detection1-13\ChipDetection\bin\x64\Debug\ChipDetection.pdb
+E:\程序\pre_v1\Detection1-13\ChipDetection\bin\x64\Debug\zh-CHS\ChipDetection.resources.dll
+E:\程序\pre_v1\Detection1-13\ChipDetection\bin\x64\Debug\zh-TW\ChipDetection.resources.dll
+E:\程序\pre_v1\Detection1-13\ChipDetection\bin\x64\Debug\DALSA.SaperaLT.SapClassBasic.dll
+E:\程序\pre_v1\Detection1-13\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.dll
+E:\程序\pre_v1\Detection1-13\ChipDetection\bin\x64\Debug\office.dll
+E:\程序\pre_v1\Detection1-13\ChipDetection\bin\x64\Debug\Microsoft.Vbe.Interop.dll
+E:\程序\pre_v1\Detection1-13\ChipDetection\bin\x64\Debug\Microsoft.Office.Interop.Excel.xml
+E:\程序\pre_v1\Detection1-13\ChipDetection\bin\x64\Debug\office.xml
+E:\程序\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.csprojResolveAssemblyReference.cache
+E:\程序\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.resources
+E:\程序\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormCode.resources
+E:\程序\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormChipDetection.resources
+E:\程序\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormNewTemplate.resources
+E:\程序\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.resources
+E:\程序\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.resources
+E:\程序\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.Properties.Resources.resources
+E:\程序\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormAddUser.zh-CHS.resources
+E:\程序\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormUser.zh-CHS.resources
+E:\程序\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-CHS.resources
+E:\程序\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.FormUserAuthority.zh-TW.resources
+E:\程序\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\ChipDetection.csproj.GenerateResource.Cache
+E:\程序\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\zh-CHS\ChipDetection.resources.dll
+E:\程序\pre_v1\Detection1-13\ChipDetection\obj\x64\Debug\zh-TW\ChipDetection.resources.dll

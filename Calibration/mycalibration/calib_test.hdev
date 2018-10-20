@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.1" halcon_version="12.0.2">
+<procedure name="main">
+<interface/>
+<body>
+<c>*******标定相机********</c>
+<l>filename:='./b_01.bmp'</l>
+<l>read_image(Image,filename)</l>
+<l>get_image_size (Image, Width, Height)</l>
+<c></c>
+<c>**相机参数与标定板规格**</c>
+<l>StartCamPar :=[0,0,0.00000345,0.00000345,Width/2,Height/2,Width,Height]</l>
+<l>CaltabName := 'caltab_20mm.descr'</l>
+<c></c>
+<l>create_calib_data ('calibration_object', 1, 1, CalibDataID)</l>
+<l>set_calib_data_cam_param (CalibDataID, 0, 'area_scan_telecentric_division', StartCamPar)</l>
+<l>set_calib_data_calib_object (CalibDataID, 0, CaltabName)</l>
+<c>*读取目录*</c>
+<c></c>
+<c>*目录待修改*</c>
+<l>NumImages := 35</l>
+<l>for I := 1 to NumImages by 1</l>
+<l>    read_image(ImageCalib,'./collection/calib_'+I$'02d') </l>
+<l>    find_calib_object (ImageCalib, CalibDataID, 0, 0, I, [], [])</l>
+<l>    get_calib_data_observ_contours (Contours, CalibDataID, 'caltab', 0, 0, I)</l>
+<l>    get_calib_data_observ_points (CalibDataID, 0, 0, I, Row, Column, Index, StartPose)</l>
+<l>endfor</l>
+<c></c>
+<c>*标定相机* NOTE:选择哪一个外参，标定板摆放</c>
+<l>calibrate_cameras (CalibDataID, Error)</l>
+<l>get_calib_data (CalibDataID, 'camera', 0, 'params', CamPara)</l>
+<l>get_calib_data (CalibDataID, 'calib_obj_pose', [0,1], 'pose', PoseCalib)</l>
+<l>set_origin_pose (PoseCalib, 0, 0, 0.0023, PoseNewOrigin)</l>
+<c></c>
+<l>write_cam_par (CamPara, 'campar.dat')</l>
+<l>write_pose (PoseCalib, 'campose.dat')</l>
+<c></c>
+<c></c>
+<c></c>
+<c></c>
+<c></c>
+<c></c>
+<c>*NOTE:参数顺序(rows,cols,x,y) 单位m</c>
+<l>*image_points_to_world_plane (CamPara, PoseCalib, IMAGE_Y1, IMAGE_X1, 'm', X1, Y1)</l>
+<c></c>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>

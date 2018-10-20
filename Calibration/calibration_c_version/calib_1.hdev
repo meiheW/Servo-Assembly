@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.1" halcon_version="12.0.2">
+<procedure name="main">
+<interface/>
+<body>
+<l>*Image_X1:=295 </l>
+<l>*Image_Y1:=132 </l>
+<l>Image_X1:=295 </l>
+<l>Image_Y1:=132 </l>
+<c></c>
+<c>***读取图像，获取尺寸***</c>
+<l>read_image (Image, 'C:/Users/Administrator/Desktop/calibration/scratch_perspective.png')</l>
+<l>get_image_size (Image, Width, Height)</l>
+<c></c>
+<c>***设置标定数据***</c>
+<l>create_calib_data ('calibration_object', 1, 1, CalibDataID)</l>
+<c></c>
+<c>***相机内参和标定板***</c>
+<l>StartCamPar := [0.012,0,0.0000055,0.0000055,0.5*Width,0.5*Height, Width, Height]</l>
+<l>set_calib_data_cam_param (CalibDataID, 0, 'area_scan_division', StartCamPar)</l>
+<l>CaltabName := 'caltab_30mm.descr'</l>
+<l>set_calib_data_calib_object (CalibDataID, 0, CaltabName)</l>
+<c></c>
+<c>***加载图像，标定数据***</c>
+<l>ImageNum := 12</l>
+<l>for I := 1 to ImageNum by 1</l>
+<l>    read_image (CurImage, 'C:/Users/Administrator/Desktop/calibration/scratch_calib_'+I$'02d')</l>
+<l>    find_calib_object (CurImage, CalibDataID, 0, 0, I, [], [])</l>
+<l>    get_calib_data_observ_contours (Contours, CalibDataID, 'caltab', 0, 0, I)</l>
+<l>    get_calib_data_observ_points (CalibDataID, 0, 0, I, RCoord, CCoord, Index, StartPose)</l>
+<l>endfor</l>
+<c></c>
+<c>***确定相机参数***</c>
+<l>calibrate_cameras (CalibDataID, Error)</l>
+<l>get_calib_data (CalibDataID, 'camera', 0, 'params', CamParam)</l>
+<l>get_calib_data (CalibDataID, 'calib_obj_pose', [0,1], 'pose', PoseCalib)</l>
+<c></c>
+<c>*** 内参赋值语句CamParIn := CamParam***</c>
+<l>CamParIn := CamParam</l>
+<c></c>
+<c>***外参调整***</c>
+<l>set_origin_pose (PoseCalib, 0, 0, 0.001, PoseNewOrigin)</l>
+<c></c>
+<c>***坐标转换***</c>
+<l>image_points_to_world_plane (CamParam, PoseNewOrigin, Image_Y1, Image_X1, 'm', World_X1, World_Y1)</l>
+<c></c>
+<c>***类型转换***</c>
+<l>tuple_int(Image_Y1,Pic_Y1)</l>
+<l>tuple_int(Image_X1,Pic_X1)</l>
+<l>tuple_real (World_X1, Wor_X1)</l>
+<l>tuple_real (World_Y1, Wor_Y1)</l>
+<c></c>
+<c>*int IY1,IX1;</c>
+<c>*float WY1,WX1;</c>
+<c>*IY1=Pic_Y1.val.l;</c>
+<c>*IX1=Pic_X1.val.l;</c>
+<c>*WY1=Wor_X1.val.f;</c>
+<c>*WX1=Wor_Y1.val.f;</c>
+<c></c>
+<c></c>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>

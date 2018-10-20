@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hdevelop file_version="1.1" halcon_version="12.0.2">
+<procedure name="main">
+<interface/>
+<body>
+<c>***读取图像，获取尺寸***</c>
+<l>read_image (Image, 'E:/calibration/scratch_perspective.png')</l>
+<l>get_image_size (Image, Width, Height)</l>
+<c></c>
+<c>***设置标定数据***</c>
+<l>create_calib_data ('calibration_object', 1, 1, CalibDataID)</l>
+<c>*相机内参和标定板</c>
+<l>StartCamPar := [0.012,0,0.0000055,0.0000055,0.5*Width,0.5*Height, Width, Height]</l>
+<l>set_calib_data_cam_param (CalibDataID, 0, 'area_scan_division', StartCamPar)</l>
+<l>CaltabName := 'caltab_30mm.descr'</l>
+<l>set_calib_data_calib_object (CalibDataID, 0, CaltabName)</l>
+<c></c>
+<c>***加载图像，标定数据***</c>
+<l>ImageNum := 12</l>
+<l>for I := 1 to ImageNum by 1</l>
+<l>    read_image (CurImage, 'E:/calibration/scratch_calib_'+I$'02d')</l>
+<l>    find_calib_object (CurImage, CalibDataID, 0, 0, I, [], [])</l>
+<l>    get_calib_data_observ_contours (Contours, CalibDataID, 'caltab', 0, 0, I)</l>
+<l>    get_calib_data_observ_points (CalibDataID, 0, 0, I, RCoord, CCoord, Index, StartPose)</l>
+<l>endfor</l>
+<l>stop()</l>
+<c></c>
+<c>***确定相机参数***</c>
+<l>calibrate_cameras (CalibDataID, Error)</l>
+<l>get_calib_data (CalibDataID, 'camera', 0, 'params', CamParam)</l>
+<l>get_calib_data (CalibDataID, 'calib_obj_pose', [0,1], 'pose', PoseCalib)</l>
+<c></c>
+<c>***矫正图像径向畸变***     内参</c>
+<l>CamParIn := CamParam</l>
+<l>CarParamVirtualFixed:=CamParIn</l>
+<l>CarParamVirtualFixed[1]:=0</l>
+<l>change_radial_distortion_cam_par ('adaptive', CamParIn, 0, CarParamVirtualFixed)</l>
+<l>gen_radial_distortion_map (Map, CamParIn, CarParamVirtualFixed, 'bilinear')</l>
+<l>map_image (Image, Map, ImageMapped)</l>
+<l>stop()</l>
+<c></c>
+<c>***计算像素距离***</c>
+<l>Image_X1:=295 </l>
+<l>Image_Y1:=132 </l>
+<c></c>
+<l>Image_X2:=389</l>
+<l>Image_Y2:=332</l>
+<l>set_origin_pose (PoseCalib, 0, 0, 0.001, PoseNewOrigin)</l>
+<l>image_points_to_world_plane (CamParam, PoseNewOrigin, Image_Y1, Image_X1, 'm', World_X1, World_Y1)</l>
+<l>image_points_to_world_plane (CamParam, PoseNewOrigin, Image_Y2, Image_X2, 'm', World_X2, World_Y2)</l>
+<l>distance_pp (Image_Y1, Image_X1, Image_Y2, Image_X2, DistanceImage)</l>
+<l>distance_pp (World_Y1, World_X1, World_Y2, World_X2, DistanceWorld)</l>
+<c></c>
+<l>DistanceOneMilimeter:=DistanceImage/DistanceWorld</l>
+<l>DistanceOnePixel:=DistanceWorld/DistanceImage</l>
+<c></c>
+<l>OffSetX:=(Width/2)*DistanceOnePixel</l>
+<l>OffSetY:=(Height/2)*DistanceOnePixel</l>
+<c></c>
+<c>***消除采集图像畸变***</c>
+<l>read_image (ImagePerspective, 'E:/calibration/scratch_perspective.png')</l>
+<l>tuple_replace (PoseNewOrigin, 5, PoseCalib[5]-90, PoseCalibRot)</l>
+<l>set_origin_pose(PoseCalibRot, -OffSetX, -OffSetY, 0, PoseNewOriginFinal)</l>
+<l>image_to_world_plane (ImagePerspective, ImageWorld, CamParam, PoseNewOriginFinal, Width, Height, DistanceOnePixel, 'bilinear')</l>
+<l>gen_image_to_world_plane_map (Map1, CamParam, PoseNewOriginFinal, Width, Height, Width, Height, DistanceOnePixel, 'bilinear')</l>
+<l>map_image (ImagePerspective, Map1, ImageMapped1)</l>
+<c></c>
+<c></c>
+<c></c>
+<c></c>
+</body>
+<docu id="main">
+<parameters/>
+</docu>
+</procedure>
+</hdevelop>

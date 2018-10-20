@@ -1,0 +1,17 @@
+D:\workroom\DSP\kimagec\test\test\obj\x86\Debug\test.Form1.resources
+D:\workroom\DSP\kimagec\test\test\obj\x86\Debug\test.Properties.Resources.resources
+D:\workroom\DSP\kimagec\test\test\obj\x86\Debug\test.csproj.GenerateResource.Cache
+D:\workroom\DSP\kimagec\test\test\bin\Debug\test.exe
+D:\workroom\DSP\kimagec\test\test\bin\Debug\test.pdb
+D:\workroom\DSP\kimagec\test\test\obj\x86\Debug\test.exe
+D:\workroom\DSP\kimagec\test\test\obj\x86\Debug\test.pdb
+G:\test\test\obj\x86\Debug\test.exe
+G:\test\test\obj\x86\Debug\test.pdb
+E:\test\test\obj\x86\Debug\test.exe
+E:\test\test\obj\x86\Debug\test.pdb
+E:\test\test\obj\x86\Debug\test.Form1.resources
+E:\test\test\obj\x86\Debug\test.Properties.Resources.resources
+E:\test\test\obj\x86\Debug\test.csproj.GenerateResource.Cache
+E:\test\test\bin\Debug\test.exe
+E:\test\test\bin\Debug\test.pdb
+E:\test\test\obj\x86\Debug\test.csprojResolveAssemblyReference.cache

@@ -1,0 +1,137 @@
+*****E1__FindCamera_2010*****
+//number of server
+int serverCount = SapManger.GetServerCount();
+
+SaqAcqDevice m_pAcqDevice = null;
+
+bool serverFound = false;
+
+//int serverIndex = 0;
+  
+if(SapManager.GetResourceCount(serverIndex,SapManager.ResouceType.AcqDevice)!=0)
+{
+	serverFound = true;
+}
+if(!serverFound){return ;}
+
+serverName = SapManager.GetServerName(serverIndex);
+SapLocation location = new SapLocation(serverName,0);
+m_pAcqDevice = new SapAcqDevice(location,false);
+m_pAcqDevice.Create();
+
+*****E2__GrabConsole_2010*****
+//相机，缓存，抓图
+SapAcqDevice AcqDevice = null;
+SapBuffer Buffers = null;
+SapTransfer Xfer = null;
+
+MyAcquisitionParams acqParams = new MyAcquisitionParams();
+
+string[] configFileNames = new string[26];
+//Server数量
+int serverCount = SapManager.GetServerCount();
+int serverIndex = serverCount - 1;//serverIndex = 0;
+
+bool cameraFound = false;
+if(SapManager.GetResourceCount(serverIndex,SapManager.ResourceType.AcqDevice)!=0)
+{
+	string serverName = SapManager.GetServer(serverIndex);
+	cameraFound = true;
+}
+//Server名称
+acqParams.ServerName = SapManager.GetServerName(serverIndex);
+//相机数量
+int cameraCount = SapManager.GetRetsouceCount(acqParams.ServerName,SapManager.ResourceType.AcqDevice);
+//相机名称（cameraIndex = cameraCount-1）
+string cameraName = SapManager.GetResourceName(acqParams.ServerName, SapManager.ResourceType.AcqDevice, cameraIndex);
+
+acqParams.ResourceIndex = 0;//采集设备(包括相机和采集卡)
+//配置文件
+string[] configFileNames = new string[MAX_CONFIG_FILES];
+string configPath = Environment.GetEnvironmentVariable("SAPERADIR")+"\\camFiles\\User";
+if(!Directory.Exists(configPath)){报错返回}；
+string[] ccffiles = Directory.GetFiles(configPath,"*.ccf");
+int configFileCount = ccffiles.Length;
+if(configFileCount == 0){报错返回}；
+foreach(string ccfFileName in ccffiles)
+{
+	configFileNames[configFileCount] = ccfFileName
+	configFileCount;
+}
+acqParams.ConfigFileName = configFileNames[configIndex];
+
+SapLocation loc = new SapLocation(acqParams.ServerName,acqParams.ResourceIndex);
+AcqDevice = new SapAcqDevice(loc,acqParams.ConfigFileName);
+Buffers = new SapBuffer(1,AcqDevice,SapBuffer.MemoryType.ScatterGather);
+Xfer = new SapAcqDeviceToBuf(AcqDevice,Buffers);
+//创建
+AcqDevice.Create();
+Buffers.Create();
+Xfer.Create();
+//抓取
+Xfer.Grab();
+
+
+//停止
+Xfer.Freeze();
+//销毁对象
+DestroysObjects(AcqDevice,Buffers,Xfer);
+loc.Dispose();
+
+
+
+*****original*****
+SapAcqDevice AcqDevice = null;
+SapBuffer Buffers = null;
+SapTransfer Xfer = null;
+**server名称，设备Index，配置文件**
+//server名称
+int ServerCount = SapManger.GetServerCount();
+int ServerIndex = serverCount - 1；
+string ServerName = SapManager.GetServerName(ServerIndex);
+//设备Index
+int CameraCount = SapManager.GetResourceCount(ServerName,SapManager.ResourceType.AcqDevice);
+int ResourceIndex =Cameracount - 1;
+
+SapLocation loc = new SapLocation(ServerName,ResourceIndex);
+
+//配置文件
+string ConfigFileName;
+string ConfigPath =  Environment.GetEnvironmentVariable("SAPERADIR")+"\\camFiles\\User\\";
+string[] ccffiles = Directory.GetFiles(configPath,"*.ccf");
+int configFileCount = ccffiles.Length;
+ConfigFileName = ccffiles[0];
+//创建对象
+if(SapManager.GetResource(ServerName,SapManager.ResourceType.AcqDevice)>0)
+{
+	AcqDevice = new SapAcqDevice(loc,ConfigFileName);
+	Buffers   = new SapBuffer(1,AcqDevice,SapBuffer.MemoryType.ScatteGather);
+	Xfer      = new SapAcqDeviceToBuf(AcqDevice,Buffers);	
+	if(!AcqDevice.Create()){return;}
+}
+
+if(!Buffer.Create()){return;}
+if(!Xfer.Create()){return;}
+//开始抓取
+Xfer.Grab();
+
+
+//停止抓取
+Xfer.Freeze();
+//销毁对象
+DestroysObjects(AcqDevice,Buffers,Xfer);
+loc.Dispose();
+
+
+
+
+
+
+
+
+
+
+
+
+
+

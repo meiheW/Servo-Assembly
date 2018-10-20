@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<ChipTemplate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PhotoFile>D:\ChipDetection_v3.1\ChipDetection\ChipDetection\bin\x64\Release\Template\21\Template.bmp</PhotoFile>
+  <chipRectangle>
+    <Location>
+      <X>188</X>
+      <Y>304</Y>
+    </Location>
+    <Size>
+      <Width>470</Width>
+      <Height>94</Height>
+    </Size>
+    <X>188</X>
+    <Y>304</Y>
+    <Width>470</Width>
+    <Height>94</Height>
+  </chipRectangle>
+  <objectRectangle>
+    <Location>
+      <X>391</X>
+      <Y>366</Y>
+    </Location>
+    <Size>
+      <Width>69</Width>
+      <Height>16</Height>
+    </Size>
+    <X>391</X>
+    <Y>366</Y>
+    <Width>69</Width>
+    <Height>16</Height>
+  </objectRectangle>
+</ChipTemplate>
