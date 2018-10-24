@@ -2,7 +2,7 @@
     <h1>
     	Servo-Assembly
 	</h1>
-	<img src="arm.jpg" width="150px">
+	<img src="camera.jpg" width="150px">
 </div>
 
 
