@@ -10,7 +10,7 @@
 ## Catalogue
 
 - Application
-    * FindGear                      音筒外端拟合直线测试程序
+    * FindGear　　　　　　　　　　　　音筒外端拟合直线测试程序
     * prepare                       准备阶段的初始应用程序
     * vision                        伺服装配主程序
 - Calibration
